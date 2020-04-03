@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Artesano
+comment0.text=\r\n\ Abstract\ class\ Artesano\ -\ write\ a\ description\ of\ the\ class\ here\r\n\ \r\n\ @author\:\ \r\n\ Date\:\ \r\n
+comment1.params=
+comment1.target=Artesano()
+comment2.params=nombre
+comment2.target=Artesano(java.lang.String)
+comment3.params=
+comment3.target=boolean\ tieneTrabajo()
+comment4.params=
+comment4.target=int\ getPedidoId()
+comment5.params=pedido_id
+comment5.target=void\ asignarTrabajo(int)
+comment6.params=
+comment6.target=void\ finalizarTrabajo()
+comment7.params=id
+comment7.target=void\ setPedidoId(int)
+numComments=8

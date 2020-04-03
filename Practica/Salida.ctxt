@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=Salida
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Salida\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=operacion
+comment1.target=void\ mostrarMensaje(Operacion)
+comment10.params=mensaje
+comment10.target=void\ mostrar(java.lang.String)
+comment2.params=
+comment2.target=void\ mostrarMensajeAltaCliente()
+comment3.params=
+comment3.target=void\ mostrarMensajeAltaEmpleado()
+comment4.params=
+comment4.target=void\ mostrarMensajeAltaArtesano()
+comment5.params=
+comment5.target=void\ mostrarMensajeSillas()
+comment6.params=
+comment6.target=void\ mostrarMensajeMesaCafe()
+comment7.params=
+comment7.target=void\ mostrarMensajeMesas()
+comment8.params=
+comment8.target=void\ mostrarMensajeMuebles()
+comment9.params=
+comment9.target=void\ mostrarOpcionesPedido()
+numComments=11

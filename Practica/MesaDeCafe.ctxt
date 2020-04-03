@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=MesaDeCafe
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ MesaDeCafe\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=MesaDeCafe()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mesa\r\n
+comment2.params=precio
+comment2.target=MesaDeCafe(double)
+comment2.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mesa\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+numComments=4
