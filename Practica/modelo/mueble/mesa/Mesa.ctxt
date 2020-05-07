@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mesa
+comment0.text=\r\n\ Sublcase\ de\ Mueble\ que\ engloba\ a\ todos\ los\ muebles\ de\ tipo\ mesa\r\n\ @author\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=Mesa()
+comment1.text=\r\n\ Constructor\ de\ Mesa\r\n
+comment2.params=precio
+comment2.target=Mesa(double)
+comment2.text=\r\n\ Constructor\ de\ Mesa\ que\ recibe\ un\ precio\r\n\ @param\ precio\ El\ precio\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ String\ Informaci\u00F3n\r\n
+numComments=4

@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Empresa
+comment0.text=\r\n\ Subclase\ Cliente\ -\ Cliente\ a\ nombre\ de\ una\ empresa\r\n\ \r\n\ @author\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=Empresa()
+comment1.text=\r\n\ Constructor\ de\ Empresa\r\n
+comment2.params=nombre
+comment2.target=Empresa(java.lang.String)
+comment2.text=\r\n\ Constructor\ de\ Empresa\ que\ recibe\ el\ nombre\r\n\ @param\ nombre\ El\ nombre\ de\ la\ empresa\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ String\ Informaci\u00F3n\r\n
+numComments=4

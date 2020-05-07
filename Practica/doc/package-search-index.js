@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"modelo.enumerable"},{"l":"modelo.mueble"},{"l":"modelo.mueble.mesa"},{"l":"modelo.mueble.silla"},{"l":"modelo.pedido"},{"l":"modelo.persona"},{"l":"modelo.persona.cliente"},{"l":"modelo.persona.empleado"},{"l":"servicio"}]

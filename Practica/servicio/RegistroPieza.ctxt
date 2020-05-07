@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=RegistroPieza
+comment0.text=\r\n\ Clase\ encargada\ la\ gesti\u00F3n\ de\ piezas.\r\n\ \r\n\ @author\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=void\ listarPiezas()
+comment1.text=\r\n\ Muestra\ un\ listado\ con\ todas\ las\ posibles\ piezas\r\n
+comment2.params=p
+comment2.target=void\ listarPiezas(modelo.pedido.Pedido)
+comment2.text=\r\n\ Muestra\ un\ listado\ con\ todas\ las\ posibles\ piezas\r\n
+comment3.params=
+comment3.target=void\ mostrarMenu()
+comment3.text=\r\n\ Muestra\ un\ listado\ con\ todas\ las\ posibles\ piezas\r\n
+comment4.params=
+comment4.target=java.util.ArrayList\ recogerPiezas()
+comment4.text=\r\n\ Muestra\ un\ listado\ con\ todas\ las\ posibles\ piezas\ \r\n\ y\ devuelve\ una\ lista\ con\ toda\ las\ piezas\ seleccionadas\r\n
+comment5.params=
+comment5.target=modelo.enumerable.Pieza\ leerPieza()
+comment5.text=\r\n\ Muestra\ un\ listado\ con\ todas\ las\ posibles\ piezas\ \r\n\ y\ devuelve\ una\ lista\ con\ toda\ las\ piezas\ seleccionadas\r\n
+numComments=6

@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Menu
+comment0.text=\r\n\ Clase\ encargada\ de\ proporcionar\ el\ conjunto\ de\ menus\ y\ submenus\ principales\r\n\ \r\n\ @author\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=void\ iniciar()
+comment1.text=\r\n\ Men\u00FA\ principal.\ Inicia\ el\ men\u00FA.\r\n
+comment2.params=
+comment2.target=void\ gestionPedidos()
+comment2.text=\r\n\ Submen\u00FA\ de\ gesti\u00F3n\ de\ pedidos,\ que\ llama\ a\ la\ clase\ encargada\ de\ \r\n\ obtener,\ modificar,\ insertar\ o\ eliminar\ datos\ y\ ofrece\ diferentes\ \r\n\ opciones\ a\ realizar.\r\n
+comment3.params=
+comment3.target=void\ gestionArtesanos()
+comment3.text=\r\n\ Submen\u00FA\ de\ gesti\u00F3n\ de\ artesanos\ por\ parte\ de\ un\ jefe.\ \r\n\ Ofrece\ diferentes\ opciones\ a\ realizar,\ entre\ ellas\ ver\ el\ progreso\r\n\ del\ trabajo\ de\ un\ artesano\ o\ asignar\ trabajo\ a\ este.\r\n
+comment4.params=
+comment4.target=void\ gestionEmpleados()
+comment4.text=\r\n\ Submen\u00FA\ de\ gesti\u00F3n\ de\ empleados,\ que\ llama\ a\ la\ clase\ encargada\ de\ \r\n\ obtener,\ modificar,\ insertar\ o\ eliminar\ datos\ y\ ofrece\ diferentes\ \r\n\ opciones\ a\ realizar.\r\n
+comment5.params=
+comment5.target=void\ gestionClientes()
+comment5.text=\r\n\ Submen\u00FA\ de\ gesti\u00F3n\ de\ clientes,\ que\ llama\ a\ la\ clase\ encargada\ de\ \r\n\ obtener,\ modificar,\ insertar\ o\ eliminar\ datos\ y\ ofrece\ diferentes\ \r\n\ opciones\ a\ realizar.\r\n
+comment6.params=
+comment6.target=void\ gestionMuebles()
+comment6.text=\r\n\ Submen\u00FA\ de\ gesti\u00F3n\ de\ muebles,\ que\ llama\ a\ la\ clase\ encargada\ de\ \r\n\ obtener,\ modificar,\ insertar\ o\ eliminar\ datos\ y\ ofrece\ diferentes\ \r\n\ opciones\ a\ realizar.\r\n
+comment7.params=
+comment7.target=void\ mostrarPrincipal()
+comment7.text=\r\n\ Muestra\ las\ opciones\ del\ men\u00FA\ principal.\r\n
+numComments=8

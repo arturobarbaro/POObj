@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Persona
+comment0.text=\r\n\ Abstract\ class\ Persona\ -\ Clase\ que\ engloba\ a\ todos\ los\ empleados\ y\ clientes\r\n\ \r\n\ @author\:\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=Persona()
+comment1.text=\r\n\ Constructor\ que\ asigna\ un\ nombre\ por\ defecto\r\n
+comment2.params=nombre
+comment2.target=Persona(java.lang.String)
+comment2.text=\r\n\ Contructor\ de\ Persona,\ que\ recibe\ el\ nombre\r\n\ @param\ nombre\ El\ nombre\ \r\n
+comment3.params=
+comment3.target=java.lang.String\ getNombre()
+comment3.text=\r\n\ Getter\ para\ devolver\ el\ nombre\r\n\ @return\ nombre\r\n
+comment4.params=nombre
+comment4.target=void\ setNombre(java.lang.String)
+comment4.text=\r\n\ Setter\ para\ asignar\ o\ cambiar\ el\ nombre\r\n\ @param\ nombre\ El\ nombre\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ M\u00E9todo\ toString\ encargado\ de\ devolver\ informaci\u00F3n\ de\ la\ clase\ Persona\r\n\ @return\ String\ informaci\u00F3n\r\n
+numComments=6

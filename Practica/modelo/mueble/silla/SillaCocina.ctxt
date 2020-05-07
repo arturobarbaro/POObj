@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=SillaCocina
+comment0.text=\r\n\ Subclase\ de\ Silla.\ Silla\ de\ cocina\r\n\ \r\n\ @author\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=SillaCocina()
+comment1.text=\r\n\ Constructor\ SillaCocina\ que\ asigna\ un\ precio\ por\ defecto\r\n
+comment2.params=precio
+comment2.target=SillaCocina(double)
+comment2.text=\r\n\ Constructor\ SillaCocina\ que\ recibe\ un\ precio\r\n\ @param\ precio\ El\ precio\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ String\ Informaci\u00F3n\r\n
+numComments=4

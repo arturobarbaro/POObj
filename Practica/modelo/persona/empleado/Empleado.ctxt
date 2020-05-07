@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Empleado
+comment0.text=\r\n\ Abstract\ class\ Empleado\ -\ Clase\ que\ engloba\ a\ todos\ los\ empleados\ y\ hereda\ \r\n\ de\ Persona\r\n\ \r\n\ @author\:\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=Empleado()
+comment1.text=\r\n\ Constructor\ de\ Empleado\r\n
+comment2.params=nombre
+comment2.target=Empleado(java.lang.String)
+comment2.text=\r\n\ Constructor\ de\ Empleado\ que\ recibe\ un\ nombre\r\n\ @param\ nombre\ El\ nombre\r\n
+comment3.params=
+comment3.target=int\ getEmpleadoId()
+comment3.text=\r\n\ Getter\ del\ ID\ del\ empleado\r\n\ @return\ int\ El\ ID\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ String\ Informaci\u00F3n\ del\ empleado\r\n
+numComments=5

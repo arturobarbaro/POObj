@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Comercial
+comment0.text=\r\n\ Clase\ Comercial\ -\ Subclase\ de\ Empleado\ que\ especifica\ un\ empleado\ que\ \r\n\ trabaja\ como\ comercial\r\n\ \r\n\ @author\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=Comercial()
+comment1.text=\r\n\ Constructor\ de\ subclase\ Comercial\r\n
+comment2.params=nombre
+comment2.target=Comercial(java.lang.String)
+comment2.text=\r\n\ Constructor\ de\ subclase\ Comercial\ que\ recibe\ el\ nombre\r\n\ @param\ nombre\ El\ nombre\r\n
+comment3.params=p
+comment3.target=void\ notificarClienteRecoger(modelo.pedido.Pedido)
+comment3.text=\r\n\ M\u00E9todo\ que\ actualiza\ el\ estado\ de\ un\ Pedido\ a\ Estado.RECOGER\r\n\ @param\ Pedido\ El\ pedido\r\n
+comment4.params=p
+comment4.target=void\ notificarClienteEntregar(modelo.pedido.Pedido)
+comment4.text=\r\n\ M\u00E9todo\ que\ actualiza\ el\ estado\ de\ un\ Pedido\ a\ Estado.ENTREGAR\r\n\ @param\ Pedido\ El\ pedido\r\n
+comment5.params=p
+comment5.target=void\ establecerPrecio(modelo.pedido.Pedido)
+comment5.text=\r\n\ M\u00E9todo\ que\ establece\ un\ precio\ a\ un\ Pedido\r\n\ @param\ Pedido\ El\ pedido\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ String\ Informaci\u00F3n\r\n
+numComments=7

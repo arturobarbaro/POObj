@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Entrada
+comment0.text=\r\n\ Clase\ encargada\ de\ la\ lectura\ de\ datos\ del\ sistema\r\n\ \r\n\ @author\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=int\ getInt()
+comment1.text=\r\n\ Lee\ y\ devuelve\ un\ n\u00FAmero\ entero\ introducido\ al\ sistema\r\n\ @return\ int\ El\ n\u00FAmero\r\n
+comment2.params=min\ max
+comment2.target=int\ getInt(int,\ int)
+comment2.text=\r\n\ Lee\ y\ devuelve\ un\ n\u00FAmero\ entero\ introducido\ al\ sistema\ comprendido\ en\ \r\n\ un\ intervalo\r\n\ @param\ min\ La\ cota\ inferior\ del\ intervalo\r\n\ @param\ max\ La\ cota\ superior\ del\ intervalo\r\n\ @return\ int\ El\ n\u00FAmero\r\n
+comment3.params=
+comment3.target=java.lang.String\ getString()
+comment3.text=\r\n\ Lee\ y\ devuelve\ una\ cadena\ introducida\ en\ el\ sistema\r\n\ @return\ String\ La\ cadena\r\n
+comment4.params=
+comment4.target=void\ limpiar()
+comment4.text=\r\n\ Limpia\ el\ scanner\r\n
+numComments=5

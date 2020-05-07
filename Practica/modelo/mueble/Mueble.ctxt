@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Mueble
+comment0.text=\r\n\ Abstract\ class\ Mueble\ -\ Clase\ que\ instancia\ un\ mueble\ del\ sistema\r\n\ \r\n\ @author\:\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=Mueble()
+comment1.text=\r\n\ Constructor\ de\ Mueble\r\n
+comment2.params=precio
+comment2.target=Mueble(double)
+comment2.text=\r\n\ Constructor\ de\ Mueble\ que\ recibe\ un\ precio\r\n\ @param\ precio\ El\ precio\r\n
+comment3.params=
+comment3.target=double\ getPrecio()
+comment3.text=\r\n\ Getter\ del\ precio\r\n\ @return\ double\ El\ precio\r\n
+comment4.params=precio
+comment4.target=void\ setPrecio(double)
+comment4.text=\r\n\ Setter\ del\ precio\r\n\ @param\ precio\ El\ precio\r\n
+comment5.params=
+comment5.target=int\ getId()
+comment5.text=\r\n\ Getter\ del\ ID\r\n\ @return\ int\ El\ ID\r\n
+comment6.params=
+comment6.target=java.lang.String\ toString()
+comment6.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ String\ Informaci\u00F3n\r\n
+numComments=7

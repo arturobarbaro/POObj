@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Jefe
+comment0.text=\r\n\ Clase\ Jefe\ -\ Subclase\ de\ Empleado\ con\ el\ rol\ de\ Jefe\r\n\ \r\n\ @author\ Arturo\ Barba\r\n
+comment1.params=
+comment1.target=Jefe()
+comment1.text=\r\n\ Constructor\ de\ Jefe\r\n
+comment2.params=nombre
+comment2.target=Jefe(java.lang.String)
+comment2.text=\r\n\ Constructor\ de\ Jefe\ que\ recibe\ el\ nombre\r\n\ @param\ nombre\ El\ nombre\r\n
+comment3.params=pedido\ artesano
+comment3.target=void\ asignarPedido(modelo.pedido.Pedido,\ Artesano)
+comment3.text=\r\n\ M\u00E9todo\ que\ asigna\ un\ pedido\ a\ un\ Artesano\ para\ que\ comience\ a\ trabajar\ \r\n\ en\ \u00E9l.\r\n\ @param\ Pedido\ El\ pedido\r\n\ @param\ Artesano\ El\ empleado\ artesano\r\n
+comment4.params=pedido
+comment4.target=void\ reponerPiezas(modelo.pedido.Pedido)
+comment4.text=\r\n\ M\u00E9todo\ que\ repone\ las\ piezas\ de\ un\ pedido\ y\ lo\ reasigna\ a\ su\r\n\ Artesano\ para\ que\ comience\ a\ trabajar\ en\ \u00E9l.\r\n\ @param\ Pedido\ El\ pedido\r\n
+comment5.params=
+comment5.target=java.lang.String\ toString()
+comment5.text=\r\n\ M\u00E9todo\ toString\r\n\ @return\ String\ informaci\u00F3n\r\n
+numComments=6
